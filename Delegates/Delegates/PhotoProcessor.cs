@@ -6,17 +6,14 @@ using System.Threading.Tasks;
 
 namespace Delegates
 {
-    class PhotoProcessor
+    public class PhotoProcessor
     {
-
-        public void Process(string path)
+        public delegate void PhotoFilterHandler(Photo photo);
+        public void Process(string path, PhotoFilterHandler filterHandler)
         {
             var photo = Photo.Load(path);
 
-            var filters = new PhotoFilter();
-            filters.ApplyBrightness(photo);
-            filters.ApplyContrast(photo);
-            filters.Resize(photo);
+            filterHandler(photo);
 
             photo.Save();
         }

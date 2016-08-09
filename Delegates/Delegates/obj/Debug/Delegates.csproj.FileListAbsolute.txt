@@ -1,2 +1,7 @@
 D:\Ruben_D\Formação\Cursos\C# Course\csharp-advanced\7 - Delegates\Delegates\Delegates\bin\Debug\Delegates.exe.config
 C:\Users\ruben.borralho\Desktop\Ruben\Tese\HomeDevelopment\C-\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\ruben.borralho\Desktop\Ruben\Tese\HomeDevelopment\C-\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+C:\Users\ruben.borralho\Desktop\Ruben\Tese\HomeDevelopment\C-\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\ruben.borralho\Desktop\Ruben\Tese\HomeDevelopment\C-\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\ruben.borralho\Desktop\Ruben\Tese\HomeDevelopment\C-\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\ruben.borralho\Desktop\Ruben\Tese\HomeDevelopment\C-\Delegates\Delegates\obj\Debug\Delegates.pdb
